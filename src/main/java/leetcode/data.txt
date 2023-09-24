@@ -1,0 +1,16 @@
+15
+put 5 -1896462705
+delete 6 
+get 8 
+delete 10 
+delete 1 
+put 2 698630162
+get 0 
+get 4 
+get 10 
+delete 7 
+put 11 -320819136
+delete 12 
+get 14 
+put 1 -1082741345
+put 11 761495435
