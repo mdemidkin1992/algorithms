@@ -4,7 +4,7 @@
 Implemented the HashTable class, which contains an array of such objects of the Entry class.
 
 * Array capacity is set as a large prime number to reduce the likelihood of collisions
-(number of requests 10 - if this is not a prime number, it is incremented by 1 until it becomes prime).
+(number of requests * 10 - if this is not a prime number, it is incremented by 1 until it becomes prime).
   
 * The problem of collisions in the hashtable was solved using the open addressing and probing method.
 A double hash function is used with a probing step i for the second hash in case of collisions.
