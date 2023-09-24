@@ -7,7 +7,7 @@ Examples of popular and interesting algorithms in my implementation.
 
 | # | Algorithm                | Link |
 |---|--------------------------|-----------------|
-| 1 | HashTable implementation | [README.md]()   |
+| 1 | HashTable implementation | [README.md](https://github.com/mdemidkin1992/algorithms/blob/main/src/main/java/leetcode/hashtable/README.md)   |
 
 #### System requirements
 
