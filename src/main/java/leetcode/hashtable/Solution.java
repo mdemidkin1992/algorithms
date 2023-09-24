@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.hashtable;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
